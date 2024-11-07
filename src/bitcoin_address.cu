@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <cuda_runtime.h>
-#include <secp256k1.h>
+#include "secp256k1.h"
 #include "sha256_cuda.h"
 #include "ripemd160_cuda.h"
 
